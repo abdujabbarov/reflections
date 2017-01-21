@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 	You do not need to read all commit, it shows where it starts branching already
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	It unites two sets. To be clear to understand
+
