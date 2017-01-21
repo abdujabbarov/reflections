@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 	It is the linking directory between them. It offers to commit once to more files simultaneously
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	From working directory add the file to the staging area and then commit it
+
