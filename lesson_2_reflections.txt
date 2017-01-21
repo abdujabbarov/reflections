@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do?
+
+	Git starts to track the directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It is the linking directory between them. It offers to commit once to more files simultaneously
+
