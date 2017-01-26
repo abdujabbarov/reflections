@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If it updates automatically then it may upload the ones that you may change then. So it is the best if you decide when to sync.
 
+Decribe the difference between forks, clones, and branches. When would you use one instead of another? 
+
+	Forks copies between GitHub accounts, clone copies either between local or from GitHub to local.
